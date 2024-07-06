@@ -1,5 +1,5 @@
 # Auto-reply-bot
-Bot that auto reply from some user on a telegram group
+Bot that auto reply from some user on a telegram group (good to troll ur firends)
 
 **HOW TO USE**
 #git clone https://github.com/OwlDontSleep/Auto-reply-bot.git
